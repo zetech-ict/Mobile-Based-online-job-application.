@@ -19,3 +19,49 @@ Job seekers should easily be able to a access the available job oppurtunity easi
 1. To create a mobile based online job application that will allow users to post and be notified of the available job.
 2. To create a platform that would help employers post available jobs and their requirement.
 3. To create a platorm that would help job seekers be notified o the available posted job.
+
+## Users
+
+    Guest
+    Authenticated user
+    Administrator
+
+## Technologies
+
+   1. java
+
+    2.php
+
+## REQUIREMENTS SPECIFICATION
+
+## Technical Requirements
+
+   1.A smart phone
+
+    Data Encryption.
+    The system should be light weight for ease of access and should within two seconds.
+
+## Functional Requirements
+
+## Users Module
+
+    Register with email
+    Enter password
+    Login
+    Verify email
+    profile update
+    Forgot password
+
+## Notification Module
+
+    1. New  job.
+    2. view a job.
+    3. Mark as read.
+
+## Feeds
+
+    1. Upload available job.
+    2. Upload job requirement and requirement.
+    3. Provide your contacts.
+    4.  Job seekerrs comment on the job.
+
