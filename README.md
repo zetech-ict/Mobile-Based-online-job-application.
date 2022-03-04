@@ -16,6 +16,8 @@ Job seekers should easily be able to a access the available job oppurtunity easi
 
 ## Objectives
 
+git commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feedsgit commit -m "add users, technologies, requirements specification, technical requirements, functional requirements user module, notification module and feeds
+
 1. To create a mobile based online job application that will allow users to post and be notified of the available job.
 2. To create a platform that would help employers post available jobs and their requirement.
 3. To create a platorm that would help job seekers be notified o the available posted job.
@@ -37,9 +39,6 @@ Job seekers should easily be able to a access the available job oppurtunity easi
 ## Technical Requirements
 
    1.A smart phone
-
-    Data Encryption.
-    The system should be light weight for ease of access and should within two seconds.
 
 ## Functional Requirements
 
@@ -64,4 +63,3 @@ Job seekers should easily be able to a access the available job oppurtunity easi
     2. Upload job requirement and requirement.
     3. Provide your contacts.
     4.  Job seekerrs comment on the job.
-
