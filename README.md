@@ -1,16 +1,18 @@
 # MOBILE BASED ONLINE JOB APPLICATION
 
-Table of contents
+## Table of contents
 
-- [MOBILE BASED ONLINE JOB APPLICATION]
-  
-- (#mobile-based-online-job-application)
-  
-- [Introduction](#introduction)
-  
-- [Objectives](#objectives)
-
-
+- [MOBILE BASED ONLINE JOB APPLICATION](#mobile-based-online-job-application)
+  - [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Objectives](#objectives)
+  - [Users](#users)
+  - [Technologies](#technologies)
+  - [REQUIREMENTS SPECIFICATION](#requirements-specification)
+  - [Technical Requirements](#technical-requirements)
+  - [Users Module](#users-module)
+  - [Notification Module](#notification-module)
+  - [Feeds](#feeds)
 
 ## Introduction
 
