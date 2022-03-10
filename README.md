@@ -20,6 +20,10 @@ Job seekers should easily be able to a access the available job oppurtunity easi
 
 ## Objectives
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 42bf83ad5c7cb954c1b79d3e12e24a8fdf9ddb3d
 1. To create a mobile based online job application that will allow users to post and be notified of the available job.
 2. To create a platform that would help employers post available jobs and their requirement.
 3. To create a platorm that would help job seekers be notified o the available posted job.
