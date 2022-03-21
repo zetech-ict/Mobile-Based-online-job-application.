@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "82255230153",
+    "project_id": "nick-job-portal",
+    "storage_bucket": "nick-job-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82255230153:android:296c064de8626aea3d0918",
+        "android_client_info": {
+          "package_name": "com.example.nickjobsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82255230153-pcujnf80rbhcrpipcccvtqecg5ka4thl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nickjobsapp",
+            "certificate_hash": "8b99992dda403280bae13d90bafb160bef4ad4f5"
+          }
+        },
+        {
+          "client_id": "82255230153-5ukm0kl6crrljk6igp7av2r3gs8erd2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oHNyqGuUR_5alBWHtm40JT-n24nt5WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82255230153-5ukm0kl6crrljk6igp7av2r3gs8erd2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
