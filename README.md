@@ -68,5 +68,10 @@ Job seekers should easily be able to a access the available job oppurtunity easi
 
 ## Landing Page
 The landing page is expected to look as shown below.
-    chrome://fileicon/?path=C%3A%5CUsers%5CDont+be+Sad%5CDownloads%5CiPhone+8+-+3+%281%29.jpg&scale=1.5x
     
+    ![MY JOB POST](https://user-images.githubusercontent.com/95125271/166224819-a81a2e88-5430-4e4a-9360-a11b399ef322.png)
+
+![POST JOB](https://user-images.githubusercontent.com/95125271/166224799-a408689c-93f3-43ae-8468-9a0978a4dc86.pn![Screenshot_20220501_085720](https://user-images.githubusercontent.com/95125271/166224868-bb72412f-d7c6-43c2-b28e-0e0fef08bfd9.png)
+g)
+![POST JOB](https://user-images.githubusercontent.com/95125271/166224849-eda02440-dbc9-4f14-8317-4e73ef931117.png)
+![Screenshot_20220501_085946](https://user-images.githubusercontent.com/95125271/166224876-7d68aa55-3829-4f3b-86e0-22a001568814.png)
